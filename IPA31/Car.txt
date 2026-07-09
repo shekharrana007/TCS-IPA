@@ -49,5 +49,5 @@ Output :
 
 1001 : Maruti
 1002 : Kia
-1003 : Hyundai
-1004 : Taxi
+1003 : Taxi
+1004 : Truck
